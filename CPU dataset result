@@ -1,0 +1,39 @@
+FUNCTIONS LINEAR REGRESSON(10)
+
+Correlation coefficient                  0.9012
+Mean absolute error                     41.0886
+Root mean squared error                 69.556 
+Relative absolute error                 42.6943 %
+Root relative squared error             43.2421 %
+Total Number of Instances 
+
+
+
+FUNCTIONS LINEAR REGRESSON(20)
+
+Correlation coefficient                  0.8991
+Mean absolute error                     41.4999
+Root mean squared error                 70.2517
+Relative absolute error                 43.0318 %
+Root relative squared error             43.5631 %
+Total Number of Instances              209 
+
+
+TREES M5P (20)
+
+Correlation coefficient                  0.9278
+Mean absolute error                     30.6174
+Root mean squared error                 61.1547
+Relative absolute error                 31.7475 %
+Root relative squared error             37.922  %
+Total Number of Instances              209     
+
+
+TREES M5P (10)
+
+Correlation coefficient                  0.9274
+Mean absolute error                     29.8309
+Root mean squared error                 60.7112
+Relative absolute error                 30.9967 %
+Root relative squared error             37.7434 %
+Total Number of Instances              209     
